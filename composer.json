@@ -1,0 +1,44 @@
+{
+    "name": "ozankurt/laravel-rating",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ozan Kurt",
+            "email": "hello@ozankurt.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kurt\\Rating\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Kurt\\Rating\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": "^7.2.5",
+        "illuminate/database": "6.*|7.*",
+        "illuminate/support": "6.*|7.*"
+    },
+    "require-dev": {
+        "orchestra/testbench": "~4.0"
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Kurt\\Rating\\RatingServiceProvider"
+            ],
+            "aliases": {
+                "Rating" : "Kurt\\Rating\\Facades\\Rating"
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable" : true
+}
