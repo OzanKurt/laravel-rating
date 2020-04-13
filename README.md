@@ -10,10 +10,10 @@
 # Laravel Ratings
 Laravel package that allows you to **rate, like & dislike or vote up & down** your models with a simple and clear way.
 
-* [Install](https://github.com/ozankurt/Laravel-rating)
-* <img src="https://image.ibb.co/eGKPgw/if_019_Star_2792947.png" width=12> [Rating](https://github.com/mohamednagy/Laravel-rating#rating)
-* <img src="https://image.ibb.co/nKBn1w/if_like_thumbs_up_hand_social_media_1169159.png" width=12> [Like & Dislike](https://github.com/mohamednagy/Laravel-rating#like--dislike)
-* <img src="https://image.ibb.co/hgco8b/if_chevron_up_173180.png" width=12> [Voting](https://github.com/mohamednagy/Laravel-rating#voting)
+* [Install](https://github.com/ozankurt/laravel-rating)
+* <img src="https://image.ibb.co/eGKPgw/if_019_Star_2792947.png" width=12> [Rating](https://github.com/ozankurt/laravel-rating#rating)
+* <img src="https://image.ibb.co/nKBn1w/if_like_thumbs_up_hand_social_media_1169159.png" width=12> [Like & Dislike](https://github.com/ozankurt/laravel-rating#like--dislike)
+* <img src="https://image.ibb.co/hgco8b/if_chevron_up_173180.png" width=12> [Voting](https://github.com/ozankurt/laravel-rating#voting)
 
 
 ## Rating
